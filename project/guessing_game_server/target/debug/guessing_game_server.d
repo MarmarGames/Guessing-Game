@@ -1,0 +1,1 @@
+C:\Users\melis\Downloads\project\guessing_game_server\target\debug\guessing_game_server.exe: C:\Users\melis\Downloads\project\guessing_game_server\src\index.html C:\Users\melis\Downloads\project\guessing_game_server\src\main.rs

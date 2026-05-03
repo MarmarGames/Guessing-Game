@@ -1,0 +1,9 @@
+C:\Users\melis\Downloads\project\guessing_game_server\target\debug\deps\potential_utf-e7b593b73d75068e.d: C:\Users\melis\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\potential_utf-0.1.5\src\lib.rs C:\Users\melis\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\potential_utf-0.1.5\src\uchar.rs C:\Users\melis\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\potential_utf-0.1.5\src\ustr.rs
+
+C:\Users\melis\Downloads\project\guessing_game_server\target\debug\deps\libpotential_utf-e7b593b73d75068e.rlib: C:\Users\melis\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\potential_utf-0.1.5\src\lib.rs C:\Users\melis\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\potential_utf-0.1.5\src\uchar.rs C:\Users\melis\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\potential_utf-0.1.5\src\ustr.rs
+
+C:\Users\melis\Downloads\project\guessing_game_server\target\debug\deps\libpotential_utf-e7b593b73d75068e.rmeta: C:\Users\melis\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\potential_utf-0.1.5\src\lib.rs C:\Users\melis\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\potential_utf-0.1.5\src\uchar.rs C:\Users\melis\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\potential_utf-0.1.5\src\ustr.rs
+
+C:\Users\melis\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\potential_utf-0.1.5\src\lib.rs:
+C:\Users\melis\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\potential_utf-0.1.5\src\uchar.rs:
+C:\Users\melis\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\potential_utf-0.1.5\src\ustr.rs:

@@ -1,0 +1,14 @@
+C:\Users\melis\Downloads\project\guessing_game_server\target\debug\deps\serde-4d7138cca374ea1f.d: C:\Users\melis\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\lib.rs C:\Users\melis\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\integer128.rs C:\Users\melis\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\mod.rs C:\Users\melis\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\de.rs C:\Users\melis\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\ser.rs C:\Users\melis\Downloads\project\guessing_game_server\target\debug\build\serde-571a2c04a148660c\out/private.rs
+
+C:\Users\melis\Downloads\project\guessing_game_server\target\debug\deps\libserde-4d7138cca374ea1f.rlib: C:\Users\melis\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\lib.rs C:\Users\melis\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\integer128.rs C:\Users\melis\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\mod.rs C:\Users\melis\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\de.rs C:\Users\melis\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\ser.rs C:\Users\melis\Downloads\project\guessing_game_server\target\debug\build\serde-571a2c04a148660c\out/private.rs
+
+C:\Users\melis\Downloads\project\guessing_game_server\target\debug\deps\libserde-4d7138cca374ea1f.rmeta: C:\Users\melis\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\lib.rs C:\Users\melis\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\integer128.rs C:\Users\melis\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\mod.rs C:\Users\melis\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\de.rs C:\Users\melis\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\ser.rs C:\Users\melis\Downloads\project\guessing_game_server\target\debug\build\serde-571a2c04a148660c\out/private.rs
+
+C:\Users\melis\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\lib.rs:
+C:\Users\melis\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\integer128.rs:
+C:\Users\melis\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\mod.rs:
+C:\Users\melis\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\de.rs:
+C:\Users\melis\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\ser.rs:
+C:\Users\melis\Downloads\project\guessing_game_server\target\debug\build\serde-571a2c04a148660c\out/private.rs:
+
+# env-dep:OUT_DIR=C:\\Users\\melis\\Downloads\\project\\guessing_game_server\\target\\debug\\build\\serde-571a2c04a148660c\\out

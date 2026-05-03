@@ -1,0 +1,11 @@
+C:\Users\melis\Downloads\project\guessing_game_server\target\debug\deps\powerfmt-b96c789e0a0059f0.d: C:\Users\melis\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\powerfmt-0.2.0\src\lib.rs C:\Users\melis\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\powerfmt-0.2.0\src\buf.rs C:\Users\melis\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\powerfmt-0.2.0\src\ext.rs C:\Users\melis\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\powerfmt-0.2.0\src\smart_display.rs C:\Users\melis\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\powerfmt-0.2.0\src\smart_display_impls.rs
+
+C:\Users\melis\Downloads\project\guessing_game_server\target\debug\deps\libpowerfmt-b96c789e0a0059f0.rlib: C:\Users\melis\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\powerfmt-0.2.0\src\lib.rs C:\Users\melis\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\powerfmt-0.2.0\src\buf.rs C:\Users\melis\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\powerfmt-0.2.0\src\ext.rs C:\Users\melis\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\powerfmt-0.2.0\src\smart_display.rs C:\Users\melis\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\powerfmt-0.2.0\src\smart_display_impls.rs
+
+C:\Users\melis\Downloads\project\guessing_game_server\target\debug\deps\libpowerfmt-b96c789e0a0059f0.rmeta: C:\Users\melis\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\powerfmt-0.2.0\src\lib.rs C:\Users\melis\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\powerfmt-0.2.0\src\buf.rs C:\Users\melis\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\powerfmt-0.2.0\src\ext.rs C:\Users\melis\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\powerfmt-0.2.0\src\smart_display.rs C:\Users\melis\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\powerfmt-0.2.0\src\smart_display_impls.rs
+
+C:\Users\melis\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\powerfmt-0.2.0\src\lib.rs:
+C:\Users\melis\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\powerfmt-0.2.0\src\buf.rs:
+C:\Users\melis\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\powerfmt-0.2.0\src\ext.rs:
+C:\Users\melis\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\powerfmt-0.2.0\src\smart_display.rs:
+C:\Users\melis\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\powerfmt-0.2.0\src\smart_display_impls.rs:
